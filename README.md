@@ -116,8 +116,8 @@ addEventListener(
 
 ## OpenWrt preferred IP script is automatically updated：
 
-* [CloudflareST](https://github.com/Lbingyi/CloudflareST) `OpenWrt recommand -faster`
-* [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate) `OpenWrt recommand`
+* [CloudflareST](https://github.com/dhfd23njd/gfdfgdfgd) `OpenWrt recommand -faster`
+* [cf-autoupdate](https://github.com/dhfd23njd/gfdfgdfgd) `OpenWrt recommand`
 
 ## About Cloudflare SpeedTest
 
